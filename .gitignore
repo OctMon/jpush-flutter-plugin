@@ -3,8 +3,8 @@
 .idea/
 .vscode/
 
-Podfile
-Podfile.lock
+# Podfile
+# Podfile.lock
 Pods/
 
 xcuserdata/
